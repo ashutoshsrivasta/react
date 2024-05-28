@@ -10,8 +10,6 @@ import ImageItem from './components/ImageItem';
 
 import Photo from './components/Photo';
 import Result from './components/Result';
-import VsjCounter from './components/VsjCounter';
-
 
 function App() {
   return (
@@ -32,7 +30,7 @@ function App() {
   <ImageItem a="lenovo laptop.png" message="Hello Ashutosh"></ImageItem>
   <ImageItem src="photo.jpg" message="This is H P Laptop"></ImageItem> */}
 
-{/* <Result  name="Ashutosh Srivastav" rollno="1"s phy="70" che="20" math="40"  ></Result> */}
+<Result  name="Ashutosh Srivastav" rollno="1"s phy="70" che="20" math="40"  ></Result>
 
   
   
